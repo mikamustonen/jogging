@@ -1,0 +1,1 @@
+This file is created because git does not keep track of empty directories.
